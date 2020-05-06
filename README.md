@@ -1,4 +1,4 @@
-# Boilerplate for API express
+# Scaffold for API express
 
 ## Install
 
